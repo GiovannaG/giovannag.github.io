@@ -148,7 +148,7 @@ p {
 }
 /*Top banner background image pattern image "img/bg-pattern.png"*/
 /*header {*/
-  
+
   /*position: relative;*/
   /*width: 100%;*/
   /*min-height: auto;*/
@@ -285,11 +285,11 @@ section.features .feature-item {
 section.features .feature-item h3 {
   font-size: 30px;
 }
-/*Top banner color gradient*/
+/*color gradient*/
 section.features .feature-item i {
   font-size: 80px;
-  background: -webkit-linear-gradient(to left, #EA0A8C, #FFFFFF);
-  background: linear-gradient(to left, #4EB197,#FFFFFF);
+  background: -webkit-linear-gradient(to left, #EA0A8C,#FFFFFF);
+  background: linear-gradient(to left, #EA0A8C,#FFFFFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -398,8 +398,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: -webkit-linear-gradient(#EA0A8C, #fdc539);
+  background: linear-gradient(#EA0A8C, #fdc539);
 }
 .text-primary {
   color: #fdcc52;
