@@ -146,12 +146,14 @@ p {
     color: #fdcc52;
   }
 }
+/*Top banner background image pattern*/
 header {
   position: relative;
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), #E83983;
+  background-color: #EA0A8C;
+  /*background: url("../img/bg-pattern.png"), #EA0A8C;*/
   /* fallback for old browsers */
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #4EB197,#FFFFFF);
   /* Chrome 10-25, Safari 5.1-6 */
@@ -282,6 +284,7 @@ section.features .feature-item {
 section.features .feature-item h3 {
   font-size: 30px;
 }
+/*Top banner color gradient*/
 section.features .feature-item i {
   font-size: 80px;
   background: -webkit-linear-gradient(to left, #4EB197,#FFFFFF);
