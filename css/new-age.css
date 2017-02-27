@@ -147,13 +147,13 @@ p {
   }
 }
 /*Top banner background image pattern image "img/bg-pattern.png"*/
-header {
+/*header {*/
   
-  position: relative;
-  width: 100%;
-  min-height: auto;
-  overflow-y: hidden;
-  background-color: #EA0A8C;
+  /*position: relative;*/
+  /*width: 100%;*/
+  /*min-height: auto;*/
+  /*overflow-y: hidden;*/
+  /*background-color: #EA0A8C;*/
   /*background: url("../img/bg-pattern.png"), #EA0A8C;*/
   /* fallback for old browsers */
   /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #FFFFFF,#FFFFFF);*/
@@ -161,7 +161,7 @@ header {
   /*background: url("../img/bg-pattern.png"), linear-gradient(to left, #EA0A8C,#FFFFFF);*/
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   /*color: white;*/
-}
+/*}*/
 header .header-content {
   text-align: center;
   padding: 150px 0 50px;
