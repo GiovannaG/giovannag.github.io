@@ -146,8 +146,9 @@ p {
     color: #fdcc52;
   }
 }
-/*Top banner background image pattern*/
+/*Top banner background image pattern image "img/bg-pattern.png"*/
 header {
+  
   position: relative;
   width: 100%;
   min-height: auto;
