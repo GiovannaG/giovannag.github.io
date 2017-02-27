@@ -156,7 +156,7 @@ header {
   background-color: #EA0A8C;
   /*background: url("../img/bg-pattern.png"), #EA0A8C;*/
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #FFFFFF,#FFFFFF);
+  /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #FFFFFF,#FFFFFF);*/
   /* Chrome 10-25, Safari 5.1-6 */
   /*background: url("../img/bg-pattern.png"), linear-gradient(to left, #EA0A8C,#FFFFFF);*/
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -288,7 +288,7 @@ section.features .feature-item h3 {
 /*Top banner color gradient*/
 section.features .feature-item i {
   font-size: 80px;
-  background: -webkit-linear-gradient(to left, #4EB197,#FFFFFF);
+  background: -webkit-linear-gradient(to left, #EA0A8C, #FFFFFF);
   background: linear-gradient(to left, #4EB197,#FFFFFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
