@@ -156,7 +156,7 @@ header {
   background-color: #EA0A8C;
   /*background: url("../img/bg-pattern.png"), #EA0A8C;*/
   /* fallback for old browsers */
-  /*background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #4EB197,#FFFFFF);*/
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #FFFFFF,#FFFFFF);
   /* Chrome 10-25, Safari 5.1-6 */
   /*background: url("../img/bg-pattern.png"), linear-gradient(to left, #EA0A8C,#FFFFFF);*/
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
