@@ -27,5 +27,10 @@
             top: 50
         }
     })
-
+    $(document).ready(function() {
+      $('#media').carousel({
+        pause: true,
+        interval: false,
+      });
+    });
 })(jQuery); // End of use strict
